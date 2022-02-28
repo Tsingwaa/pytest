@@ -123,3 +123,6 @@ dmypy.json
 
 # vsc workspace:wq
 .workspace
+
+# checkpoint
+*.pth.tar
